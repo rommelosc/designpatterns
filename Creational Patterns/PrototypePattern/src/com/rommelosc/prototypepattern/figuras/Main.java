@@ -7,6 +7,9 @@ import java.util.Scanner;
  * <a href="http://youtu.be/3qJdehZ2Y9U">
  * Patrones de Diseño Cap 06 - PROTOTIPO
  * </a>
+ * 
+ * Prototype Design Pattern Usage in Java API: interface Cloneable 
+ * 
  * */
 public class Main {
 
